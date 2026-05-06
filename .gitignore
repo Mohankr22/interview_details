@@ -1,0 +1,4 @@
+.env
+venv/
+interview_data.db interviews.db
+complect_details_April.csv
